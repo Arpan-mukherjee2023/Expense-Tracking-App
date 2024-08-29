@@ -1,0 +1,28 @@
+body{
+  background-color: #212121;
+  color: white;
+}
+
+.navbar {
+  background-color: gray;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  margin: 0 10px;
+}
+
+h1 {
+  color: white;
+}
+
+.active {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: coral;
+}
+
+.scroll::-webkit-scrollbar {
+  display: none;
+}
